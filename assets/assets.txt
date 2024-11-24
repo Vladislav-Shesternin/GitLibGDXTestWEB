@@ -1,6 +1,15 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-38fca321d68290caea2eb2a3cdb55f66.txt:11:text/plain:1
-i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
+d:atlas:atlas:0:application/unknown:1
+t:atlas/all.atlas:atlas/all-7d444a3ed8ecbd7eb6523b58352ce8f9.atlas:181:application/unknown:1
+i:atlas/all.png:atlas/all-e71c984ec8f6076f5b491f9d0d9f5df8.png:469416:image/png:1
+t:atlas/loader.atlas:atlas/loader-c5700cd26765439adee5f6756eca9b43.atlas:180:application/unknown:1
+i:atlas/loader.png:atlas/loader-94d1681aa17a6e78f6b2048851842f57.png:7368:image/png:1
+b:Inter-Regular.ttf:Inter-Regular-fc20e0880f7747bb39b85f2a0722b371.ttf:342484:application/unknown:1
+i:libgdx.png:libgdx-677e44086fe009c11f52e661101c109b.png:543:image/png:1
+d:textures:textures:0:application/unknown:1
+d:textures/all:textures/all:0:application/unknown:1
+d:textures/loader:textures/loader:0:application/unknown:1
+i:textures/loader/loader.png:textures/loader/loader-d28945b6bacff0c4ea0c890751ec0bc5.png:77353:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
